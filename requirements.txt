@@ -1,0 +1,11 @@
+customtkinter
+stellar-sdk
+pyinstaller
+pyinstaller-hooks-contrib
+cffi
+pynacl
+certifi
+requests
+urllib3
+charset-normalizer
+idna

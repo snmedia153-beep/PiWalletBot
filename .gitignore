@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.spec
+
+# Virtual environment
+venv/
+env/
+build_env/
+build_env_nuitka/
+
+# PyInstaller
+build/
+dist/
+*.manifest
+
+# Local wallet/profile data
+pi_wallets.json
+*.log
+
+# Secrets
+.env
+*.key
+*.pem
+*.secret
+secrets/
+wallets/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
